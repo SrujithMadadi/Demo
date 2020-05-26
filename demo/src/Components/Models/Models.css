@@ -1,0 +1,20 @@
+.tabContainer{
+    color: #00b1eb;
+    background-color:white;
+}
+
+.MuiTab-wrapper{
+    font-weight: bold;
+}
+
+.appBarContainer{
+    margin-top: 1.5rem;
+}
+
+.tabpanel div{
+    padding: 0;
+}
+
+.tabpanel{
+    margin-top: 2rem;
+}

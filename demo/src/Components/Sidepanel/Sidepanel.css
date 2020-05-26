@@ -1,0 +1,27 @@
+.sidePanelContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0;
+}
+
+.logo{
+    height: 3rem;
+}
+
+.modelsButton span{
+    display: flex;
+    flex-direction: column;
+}
+
+.modelsButton span svg{
+    height: 2rem;
+}
+
+.sidepanelText{
+    margin: 0;
+}
+
+.sidepanelItem{
+    padding: 0;
+    margin-bottom: 2rem;
+}

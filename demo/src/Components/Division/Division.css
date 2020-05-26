@@ -1,0 +1,66 @@
+.modelItems{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.modelItemContainer{
+    width: 33%;
+    margin: 2rem 0;
+    position: relative;
+}
+
+.modelText{
+    text-transform:uppercase;
+}
+
+.modalImage{
+    max-width: 120%;
+    height:11rem;
+}
+
+.modelDetailsContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.8rem;
+    margin-left: 0.8rem;
+}
+
+.type{
+    color: #7c868f;
+    margin-bottom: 0.6rem;
+}
+.price{
+    color: black;
+    font-weight: bold;
+    margin-bottom: 0.8rem
+}
+
+.exploreContainer{
+    display: flex;
+    margin-left: 0.8rem;    
+}
+
+.exploreItemContainer{
+    display: flex;
+    margin-right: 0.5rem;
+    color: #01b1ec;
+    margin-bottom: 0.4rem;
+    font-size: small;
+}
+
+.exploreContainerText{
+    margin: 0 0 0 0.5rem;
+}
+
+.modelTextImage{
+    height: 1rem;
+}
+
+.modelName{
+    color: #7c868f;
+    font-size: 2rem;
+    top: 2%;
+    position: absolute;
+    left: 12%;
+}
