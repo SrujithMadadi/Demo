@@ -1,0 +1,33 @@
+.footerModelNameContainer{
+    background: #2c2d32;
+    height: 3rem;
+    color: #01b1ec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerModels{
+    font-size: 13px;
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+
+}
+
+.footerTextContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.footerTextContainer p{
+    color: #001e50;
+    font-size: 1rem;
+}
+
+.headerTitle{
+    font-weight: bold;
+}
